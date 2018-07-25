@@ -1,4 +1,4 @@
-# J8T Token Bounty Distribution Script
+# nDEX (NDX) Token Airdrop Distribution Script
 
 The script distributes J8T tokens according to a CSV file with addresses and amounts. 
 
